@@ -42,15 +42,15 @@ This project focuses on small-scale retail operations such as:<br>
 
 ## ⚙️ What the Code Does
 - Displays a product catalog (Bed, Pillow, Blanket, Table, Lamp) with prices.
-  Allows the cashier to:<br>
-  Enter customer details<br>
-  Select product(s) and quantity<br>
-  Automatically calculate subtotal, tax (5%), and discount (10% if applicable)
+  - Allows the cashier to:<br>
+  - Enter customer details<br>
+  - Select product(s) and quantity<br>
+  - Automatically calculate subtotal, tax (5%), and discount (10% if applicable)
 - Generates a formatted receipt including:<br>
-  Store details<br>
-  Purchased items and totals<br>
-  Tax, discount, and final amount<br>
-  Tracks the total number of customers and income for the day.<br>
+  - Store details<br>
+  - Purchased items and totals<br>
+  - Tax, discount, and final amount<br>
+  - Tracks the total number of customers and income for the day.<br>
 - Displays a daily closing report when the user exits.
 
 ## 🧾 Project Summary
