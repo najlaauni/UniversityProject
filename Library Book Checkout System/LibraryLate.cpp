@@ -17,7 +17,7 @@ double calculateLateFees (int days)
 
 void displayMenu ()
 {
-    cout << "******** Library Book Checkout System ******" << endl;
+    cout << "\n******** Library Book Checkout System ******" << endl;
     cout << "1. Calculate Late Fees" << endl;
     cout << "2. Display Library Information" << endl;
     cout << "3. Quit" << endl;
