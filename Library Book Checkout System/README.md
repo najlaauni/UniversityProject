@@ -20,6 +20,7 @@ The system calculates late fees based on the number of days a book is overdue us
 
 ## 💰 Late Fee Structure
 | Overdue Days | Charges |
+|--------------|---------|
 | 1 – 7 days | RM 0.50 per day |
 | 8 – 14 days	| RM 1.00 per day |
 | 15+ days | RM 2.00 per day |
