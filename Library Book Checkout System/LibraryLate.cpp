@@ -17,7 +17,7 @@ double calculateLateFees (int days)
 
 void displayMenu ()
 {
-    cout << "\n******** Library Book Checkout System ******" << endl;
+    cout << "******** Library Book Checkout System ******" << endl;
     cout << "1. Calculate Late Fees" << endl;
     cout << "2. Display Library Information" << endl;
     cout << "3. Quit" << endl;
@@ -26,9 +26,9 @@ void displayMenu ()
 
 void displayLibraryInfo ()
 {
-    cout << "Library Name: UTM Library" << endl;
+    cout << "\nLibrary Name: UTM Library" << endl;
     cout << "Address: Skudai, Johor" << endl;
-    cout << " Contact: (123) 456 7890";
+    cout << "Contact: (123) 456 7890" << endl;
 }
 
 void getUserInput (int &days)
@@ -44,6 +44,7 @@ int main ()
 
     do
     {    
+        cout << endl;
         displayMenu();
         cin >> option;
         switch(option){
