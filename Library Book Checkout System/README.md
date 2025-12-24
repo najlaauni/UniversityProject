@@ -44,6 +44,7 @@ getUserInput(int &days) – Gets overdue days from user <br>
 1. Calculate Late Fees<br>
 2. Display Library Information<br>
 3. Quit<br>
+
 Enter your choice (1-3): 1<br>
 Enter number of days the book is overdue: 3<br>
 Late fees: RM 1.5<br>
@@ -52,6 +53,7 @@ Late fees: RM 1.5<br>
 1. Calculate Late Fees<br>
 2. Display Library Information<br>
 3. Quit<br>
+
 Enter your choice (1-3): 2<br>
 
 Library Name: UTM Library<br>
@@ -62,6 +64,7 @@ Contact: (123) 456 7890<br>
 1. Calculate Late Fees<br>
 2. Display Library Information<br>
 3. Quit<br>
+
 Enter your choice (1-3): 3<br>
 Exiting the program. Thankyou!<br>
 
