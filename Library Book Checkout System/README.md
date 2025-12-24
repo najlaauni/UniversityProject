@@ -40,30 +40,30 @@ getUserInput(int &days) – Gets overdue days from user <br>
 
 ## 📌 Sample Menu Output
 
-******** Library Book Checkout System ******
-1. Calculate Late Fees
-2. Display Library Information
-3. Quit
-Enter your choice (1-3): 1
-Enter number of days the book is overdue: 3
-Late fees: RM 1.5
+******** Library Book Checkout System ******<br>
+1. Calculate Late Fees<br>
+2. Display Library Information<br>
+3. Quit<br>
+Enter your choice (1-3): 1<br>
+Enter number of days the book is overdue: 3<br>
+Late fees: RM 1.5<br>
 
-******** Library Book Checkout System ******
-1. Calculate Late Fees
-2. Display Library Information
-3. Quit
-Enter your choice (1-3): 2
+******** Library Book Checkout System ******<br>
+1. Calculate Late Fees<br>
+2. Display Library Information<br>
+3. Quit<br>
+Enter your choice (1-3): 2<br>
 
-Library Name: UTM Library
-Address: Skudai, Johor
-Contact: (123) 456 7890
+Library Name: UTM Library<br>
+Address: Skudai, Johor<br>
+Contact: (123) 456 7890<br>
 
-******** Library Book Checkout System ******
-1. Calculate Late Fees
-2. Display Library Information
-3. Quit
-Enter your choice (1-3): 3
-Exiting the program. Thankyou!
+******** Library Book Checkout System ******<br>
+1. Calculate Late Fees<br>
+2. Display Library Information<br>
+3. Quit<br>
+Enter your choice (1-3): 3<br>
+Exiting the program. Thankyou!<br>
 
 ---
 
