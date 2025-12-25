@@ -9,8 +9,9 @@ This project involves developing a Library Book Checkout System using C++. The p
 
 ---
 
-📝 Purpose
+## 📝 Purpose
 This program tests the ability to:
+
 - Design a menu-driven C++ application
 - Implement functions with parameters and return values
 - Apply conditional logic for tier-based calculations
