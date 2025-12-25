@@ -4,17 +4,19 @@ This project is a C++ program that models a basic library book borrowing system.
 
 ---
 
-## 🧠 Project Overview
-
-The late fees for the overdue books are assessed through a tiered system of daily fines calculated by the system. It is a good example of the implementation of functions, conditional statements, loops, and menu-driven programming in C++.
+## 🧠 Problem Statement
+This project involves developing a Library Book Checkout System using C++. The program is designed to calculate late return fees for overdue library books and provide basic library information through a menu-driven interface. The objective of this task is to apply fundamental C++ programming concepts such as functions, conditional statements, and loops to create a functional and user-friendly console application.
 
 ---
 
-## ✨ Features
-- Calculate late fees based on overdue days
-- Display library information
-- Menu-driven system using do-while loop
-- Modular design using multiple functions
+📝 Purpose
+This program tests the ability to:
+- Design a menu-driven C++ application
+- Implement functions with parameters and return values
+- Apply conditional logic for tier-based calculations
+- Handle user input and output correctly
+- Control program flow using loops<
+This exercise strengthens problem-solving skills and reinforces core C++ fundamentals.
 
 ---
 
