@@ -6,7 +6,7 @@ This project is a C++ program that models a basic library book borrowing system.
 
 ## 🧠 Project Overview
 
-The system calculates late fees based on the number of days a book is overdue using a tiered charging structure. It demonstrates the use of functions, conditional statements, loops, and menu-driven programming in C++.
+The late fees for the overdue books are assessed through a tiered system of daily fines calculated by the system. It is a good example of the implementation of functions, conditional statements, loops, and menu-driven programming in C++.
 
 ---
 
