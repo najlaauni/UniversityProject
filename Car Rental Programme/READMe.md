@@ -1,11 +1,11 @@
 # Projects: Car Rental Program — Debugging Report (C++)
 
-## Problem Statement
+## 📘 Problem Statement
 This task involves debugging a Car Rental Program written in C++. The original code contained several syntax errors, logical mistakes, and incorrect conditions that prevented it from running properly. My objective was to identify all errors based on the labels given in the source code (Error 1–Error 10) and fix them so the program could function as intended.
 
 ---
 
-## Purpose
+## 📝 Purpose
 This question tests the ability to:
 - Analyze pre-written code
 - Detect logical and runtime errors
@@ -15,7 +15,7 @@ This question tests the ability to:
 
 ---
 
-## Overview
+## 💎 Overview
 The Car Rental Program is a menu-driven system that allows users to:
 - View the list of available cars
 - Rent a car by choosing a model and entering rental hours
@@ -25,7 +25,7 @@ The Car Rental Program is a menu-driven system that allows users to:
 
 ---
 
-## Objective of Debugging
+## 💡 Objective of Debugging
 - Fix invalid comparison logic in menu validation
 - Correct data type issues in function parameters
 - Ensure switch-case uses the correct values
@@ -36,7 +36,7 @@ The goal was not to redesign the program but strictly to correct the given code 
 
 ---
 
-## Scope of Errors Fixed
+## 📌 Scope of Errors Fixed
 - Menu Validation (Error 1 & Error 2)
 
 Incorrect logical operators and return handling were corrected so that option validation works correctly.
@@ -69,7 +69,7 @@ The correct data types and variable names were passed to the rental calculation 
 
 ---
 
-## Summary of the Debugged Program
+## 💻 Summary of the Debugged Program
 After correcting all errors:
 - The menu displays and validates user input properly
 - Car model selection works correctly with proper error handling
@@ -79,7 +79,7 @@ After correcting all errors:
 
 ---
 
-## Conclusion
+## 🔎 Conclusion
 This debugging task reinforced key C++ skills such as:
 - Understanding logical operators
 - Handling user input safely
