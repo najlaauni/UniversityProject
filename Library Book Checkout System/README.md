@@ -15,7 +15,7 @@ This program tests the ability to:
 - Implement functions with parameters and return values
 - Apply conditional logic for tier-based calculations
 - Handle user input and output correctly
-- Control program flow using loops<
+- Control program flow using loops<br>
 This exercise strengthens problem-solving skills and reinforces core C++ fundamentals.
 
 ---
