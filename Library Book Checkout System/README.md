@@ -119,7 +119,16 @@ After implementation:
 
 ---
 
-##
+## 🔎 Conclusion
+This project reinforced essential C++ programming skills such as:
+- Writing and using functions effectively
+- Applying conditional statements for real-world scenarios
+- Structuring menu-driven programs
+- Managing user input and program flow
+
+Overall, the Library Book Checkout System demonstrates a clean, logical, and functional C++ application suitable for beginner-level coursework and practice.
+
+---
 
 ## 🎯 Learning Outcomes
 - Improved understanding of function-based programming
