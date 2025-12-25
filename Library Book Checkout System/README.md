@@ -65,7 +65,6 @@ Charges are accumulated progressively according to the overdue duration.
 - Function-Based Design<br>
   The system uses multiple functions to improve readability and modularity, including fee calculation, menu display, user input handling, and library information display.
 
-
 ---
 
 ## 🛠️ Functions Used
@@ -108,6 +107,19 @@ Enter your choice (1-3): 3<br>
 Exiting the program. Thankyou!<br>
 
 ---
+
+## 💻 Summary of the Program
+
+After implementation:
+- Late fees are calculated accurately based on overdue days
+- The menu displays clearly and validates user selections
+- Library information is displayed correctly upon request
+- The program repeats smoothly until the user chooses to quit
+- Output messages are clear and user-friendly
+
+---
+
+##
 
 ## 🎯 Learning Outcomes
 - Improved understanding of function-based programming
