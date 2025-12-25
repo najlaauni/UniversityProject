@@ -1,9 +1,5 @@
 # Library Book Checkout System (Late Fees Calculator)
 
-This project is a C++ program that models a basic library book borrowing system. Users of the application can determine the cost of returning books late and get to know the library's basic information through a menu-based interface.
-
----
-
 ## 🧠 Problem Statement
 This project involves developing a Library Book Checkout System using C++. The program is designed to calculate late return fees for overdue library books and provide basic library information through a menu-driven interface. The objective of this task is to apply fundamental C++ programming concepts such as functions, conditional statements, and loops to create a functional and user-friendly console application.
 
