@@ -22,6 +22,18 @@ This exercise strengthens problem-solving skills and reinforces core C++ fundame
 
 ---
 
+## 💎 Overview
+
+The Library Book Checkout System allows users to:
+- Calculate late fees based on the number of overdue days
+- Display basic library information
+- Navigate the system using a menu-based interface
+- Repeat operations until the user chooses to exit
+
+The system applies different late fee rates depending on the length of the overdue period.
+
+---
+
 ## 💰 Late Fee Structure
 | Overdue Days | Charges |
 |--------------|---------|
