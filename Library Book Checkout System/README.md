@@ -34,6 +34,18 @@ The system applies different late fee rates depending on the length of the overd
 
 ---
 
+## 💡 Objective of the Program
+
+The main objectives of this program are to:
+- Accurately calculate late fees using a tiered fee structure
+- Ensure clear separation of tasks using modular functions
+- Validate user choices through menu selection
+- Maintain smooth program execution using a loop
+
+The goal of this project is not to build a complex system, but to correctly implement logic that reflects real-world library late fee rules.
+
+---
+
 ## 💰 Late Fee Structure
 | Overdue Days | Charges |
 |--------------|---------|
