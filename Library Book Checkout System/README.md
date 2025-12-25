@@ -46,14 +46,25 @@ The goal of this project is not to build a complex system, but to correctly impl
 
 ---
 
-## 💰 Late Fee Structure
+## 📌 Scope of Implementation
+
+**Late Fee Calculation Logic**
+The program calculates late fees based on the following structure:
+
 | Overdue Days | Charges |
 |--------------|---------|
 | 1 – 7 days | RM 0.50 per day |
 | 8 – 14 days	| RM 1.00 per day |
 | 15+ days | RM 2.00 per day |
 
-The total fee is calculated cumulatively based on these tiers.
+Charges are accumulated progressively according to the overdue duration.
+
+- Menu-Driven Control
+  A do-while loop ensures the program continues running until the user selects the exit option.
+
+- Function-Based Design
+  The system uses multiple functions to improve readability and modularity, including fee calculation, menu display, user input handling, and library information display.
+
 
 ---
 
