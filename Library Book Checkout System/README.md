@@ -59,10 +59,10 @@ The program calculates late fees based on the following structure:
 
 Charges are accumulated progressively according to the overdue duration.
 
-- Menu-Driven Control
+- Menu-Driven Control<br>
   A do-while loop ensures the program continues running until the user selects the exit option.
 
-- Function-Based Design
+- Function-Based Design<br>
   The system uses multiple functions to improve readability and modularity, including fee calculation, menu display, user input handling, and library information display.
 
 
